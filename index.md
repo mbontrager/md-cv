@@ -1,33 +1,33 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Martin Bontrager's CV
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and data scientist
+# Martin B. Bontrager
+Genetics PhD and Evolutionary Biologist
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:mbontrager@gmail.com">mbontrager@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-github"></i> <a href="http://github.com/mbontrager">mbontrager</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/martinbontrager">martinbontrager</a>
 </div>
 
 
 ## Currently
 
-I'm a final-year bioinformatics PhD student at the University of Edinburgh, due to finish around September 2015. During my PhD I've been working on integrating large volumes of publicly available genomics datasets with chromosome conformation data, exploring the relationships between higher order genome organisation and locus-level chromatin features using machine learning and statistical analysis.
+I'm a fifth-year Genetics PhD student at the University of Wisconsin-Madison, due to finish around September 2017. During my time at UW-Madison I have been studying the microbiome of an invasive copepod species across independent saltwater to freshwater invasions. I am currently working on a project examining parallel evolution in the copepod using pooled population genomics data.
 
 ## Education
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken)
+`2011-2015`
+__University of Wisconsin - Madison__ Genetics PhD (supervisor: Carol Lee)
 
-`2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
+`2009-2011`
+__SUNY Brockport__ BSc Biology (_Summa Cum Laude_)
 
 `2008-11`
-__University of York__ BSc Biology (_First class honours_)
+__Finger Lakes Community College__ AS General Studies
 
 ## Presentations
 
@@ -93,16 +93,15 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 
 * R
 * Statistics
-* LaTeX
-* Git / Mercurial
-* UNIX
+* Markdown
+* Git
+* UNIX / Linux
 * Python
-* Machine learning
-* Bash
+* Perl
+* Bash scripting
 * Emacs
 * Inkscape
 * Data visualisation
-* Mediawiki
 * Cluster computing
 * HTML and CSS
 * Javascript
@@ -122,19 +121,13 @@ I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/
 
 ## Awards
 
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
+NSF Graduate Research Fellowhip Program (3 years PhD fees + enhanced stipend)
 
-MRC Full postgraduate scholarship (MSc fees + stipend)
+Genetics Department NIH training grant (2 years PhD fees + stipend)
 
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
+UW-Madison Zoology research grant ($2500 research funding)
 
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
+Peter and Rosemary Grant summer research fellowship ($2000 research funding)
 
 ## Placements
 
@@ -145,12 +138,10 @@ Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.or
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-*  <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Ben Moore</a><br />
-*  <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">blmoore</a>
-* <i class="fa fa-google"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
+* <i class="fa fa-envelope"></i> <a href="mailto:mbontrager@gmail.com">mbontrager@gmail.comm</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/mbontrager">mbontrager</a><br />
+* <i class="fa fa-twitter"></i> <a href="http://twitter.com/martinbontrager">martinbontrager</a><br />
+* <i class="fa fa-google"></i> <a href="https://scholar.google.com/citations?hl=en&user=8vpxlWsAAAAJ">scholar</a>
 
 ## References
 
