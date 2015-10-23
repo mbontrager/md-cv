@@ -2,7 +2,7 @@
 layout: cv
 title: Martin Bontrager's CV
 ---
-# Martin B. Bontrager
+# Martin Bontrager
 Genetics PhD and Evolutionary Biologist
 
 <div id="webaddress">
@@ -20,60 +20,74 @@ I'm a fifth-year Genetics PhD student at the University of Wisconsin-Madison, du
 
 ## Education
 
-`2011-2015`
+`2011-15`
 __University of Wisconsin - Madison__ Genetics PhD (supervisor: Carol Lee)
 
-`2009-2011`
+`2009-11`
 __SUNY Brockport__ BSc Biology (_Summa Cum Laude_)
 
-`2008-11`
+`2001-03`
 __Finger Lakes Community College__ AS General Studies
 
+## Teaching
+
+### TA
+
+GEN 466 Genetics
+Bio 100 Exploring Biology
+
+### Lecturer
+
+Bio 100 Exploring Biology
+
+### Undergraduate Mentorship
+
+`2012-15`
+Joe Connolly and Khamsai Vang _Culture-based Isolation of Microbial Symbionts from Copepod Hosts_
+
+Sonya Loberger _Detecting Signatures of Selection using Pooled Population Genomics_
+
+### HHMI Teaching Fellowship
+
+I received training in pedagogical methods and active-learning strategies, then developed a team-taught introductory Biology course with my cohort which we taught to Freshmen students. Part of the aim of this fellowship was to aid in the retention of minority and underpriveledged students.
+
+### Teaching Evolution online course
+
+I helped to develop modules for an online teacher-training course for middle and high school teachers. The goal of the online modules was to provide teachers with access to good materials and lesson plans about Evolutionary Biology.
+
 ## Presentations
-
-### Tutorials
-
-`2014`
-WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
 
 ### Talks
 
 `2015`
-EdinbR: The Edinburgh R usergroup (_various_)
+Along for the Ride: A Copepod Microbiome across Habitat Invasions (_UW Genetics Summer Colloquium Series_, Madison, WI)
 
-MRC IGMM research seminars and section meetings (_various_)
+Copepods as Reservoirs for _Flavobacterium_ and other Fish Pathogens (_NOAA SeaGrant_, Madison, WI)
 
 `2014`
-Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
+Statistical Tests of Primate Common Ancestry (_Evolution Seminar Series_, Madison, WI)
 
-blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
+Taxonomic Diversity in the Microbiome of an Invasive Copepod (_UW Genetics Summer Colloquium Series_, Madison, WI)
 
-<!-- Digital Economies 2014 conference (London, UK; declined) -->
+`2011`
+Density and Seagrass Preference of the Marine Gastropod Cerithium litteratum in Relation to Current and Wave Action (_SUNY Brockport Scholar's Day_, Brockport, NY)
+
+Identification of Rad52 Protein Isoforms via Site-Directed Mutagenesis (_SUNY Brockport Scholar's Day_, Brockport, NY)
+
 
 ### Posters
 
-`2015`
-_Keystone Epigenomics_ (Keystone CO, USA)
+`2011`
+The Role of RAD52 in Mitochondrial Genome Stability (_SUNY Brockport Summer Research Session_, Brockport, NY)
 
-`2014`
-_ISMB_ (Boston MA, USA)
-
-_Genome informatics_ (Cambridge, UK)
-
-_Chromatin: From nucleosomes to chromosomes_ (Cambridge, UK)
-
-`2013`
-_Genome informatics_ (CSHL NY, USA)
-
-_EpiGeneSys_ (Cambridge, UK)
-
+The Role of RAD52 in Mitochondrial Genome Stability (_Rochester Academy of Sciences Meeting_, Ithaca, NY)
 
 ## Publications
 
 <!-- ### Journals -->
 
 `2015`
-__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16: 110.
+__Bontrager M__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16: 110.
 
 Yua N, Nützmanna H-W, __Moore BL__ _et al._ Chromatin signatures of plant metabolic gene clusters. (_Submitted_)
 
@@ -83,11 +97,9 @@ __Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha 
 `2011`
 Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
 
-## Non-academic
+### Media
 
-`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
-
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
+`2015` _Morgridge Institute for Research_: [Microbial communities may inform understanding of rapid evolution](https://morgridge.org/newsarticle/microbial-communities-may-inform-understanding-of-rapid-evolution/)
 
 ## Technical skills
 
@@ -106,20 +118,27 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 * HTML and CSS
 * Javascript
 
-## Projects
+## Activities
 
-### blog
+### JF Crow Institute for the Study of Evolution
 
-I write a data science blog at [blm.io](http://blm.io) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received around 150,000 total views from 180 countries.
+I am a member of the Evolution Coordinating Committee for the Crow Institute at UW-Madision. I am involved in the development of a graduate program in Evolution, as well as in many outreach and teaching activities.
 
-### EdinbR
-I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I help to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
+### Evolution Seminar Series
 
-### datarea
+I organize and run the UW-Madison Evolution Seminar Series by inviting all associated speakers and writing grants for funding visiting speakers.
 
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
+### MoMiEE
+
+I co-founded a group meeting of microbial ecologists and computational biologists on campus which meets monthly to talk about methods in microbial ecology and evolution.
+
+### Evolution Journal Club
+
+I founded and help run a weekly evolution journal club for graduate students and post-docs.
 
 ## Awards
+
+HHMI Teaching Fellowship (2014 - Present)
 
 NSF Graduate Research Fellowhip Program (3 years PhD fees + enhanced stipend)
 
@@ -127,13 +146,7 @@ Genetics Department NIH training grant (2 years PhD fees + stipend)
 
 UW-Madison Zoology research grant ($2500 research funding)
 
-Peter and Rosemary Grant summer research fellowship ($2000 research funding)
-
-## Placements
-
-`2010-11`
-__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
-Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
+Paul and Agnes Bower Biology summer reserach scholarship ($2000 research funding)
 
 
 ## Links
@@ -149,4 +162,4 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: October 2015 -->
