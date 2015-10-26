@@ -3,7 +3,7 @@ layout: cv
 title: Martin Bontrager's CV
 ---
 # Martin Bontrager
-Genetics PhD and Evolutionary Biologist
+Genetics PhD, Teacher, and Evolutionary Biologist
 
 <div id="webaddress">
 <a href="mailto:mbontrager@gmail.com">mbontrager@gmail.com</a>
@@ -33,11 +33,15 @@ __Finger Lakes Community College__ AS General Studies
 
 ### TA
 
+`2013`
 GEN 466 Genetics
+
+`2015`
 Bio 100 Exploring Biology
 
 ### Lecturer
 
+`2015`
 Bio 100 Exploring Biology
 
 ### Undergraduate Mentorship
@@ -49,11 +53,13 @@ Sonya Loberger _Detecting Signatures of Selection using Pooled Population Genomi
 
 ### HHMI Teaching Fellowship
 
+`2015`
 I received training in pedagogical methods and active-learning strategies, then developed a team-taught introductory Biology course with my cohort which we taught to Freshmen students. Part of the aim of this fellowship was to aid in the retention of minority and underpriveledged students.
 
 ### Teaching Evolution online course
 
-I helped to develop modules for an online teacher-training course for middle and high school teachers. The goal of the online modules was to provide teachers with access to good materials and lesson plans about Evolutionary Biology.
+`2014-15`
+I developed modules for an online teacher-training course for middle and high school teachers. The goal of the online modules was to provide teachers with access to good materials and lesson plans about Evolutionary Biology.
 
 ## Presentations
 
@@ -87,15 +93,16 @@ The Role of RAD52 in Mitochondrial Genome Stability (_Rochester Academy of Scien
 <!-- ### Journals -->
 
 `2015`
-__Bontrager M__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16: 110.
 
-Yua N, Nützmanna H-W, __Moore BL__ _et al._ Chromatin signatures of plant metabolic gene clusters. (_Submitted_)
+__Bontrager, Martin__ B. Larget, C. Ane, and D. Baum. Statistical Evidence for Common Ancestry: Testing for Signal in Silent Sites. _(Submitted)_
 
-`2013`
-__Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. _Journal of computational chemisty_, 34(22):1881-9.
+Larget, Bret, C. Ane, __M. Bontrager__,  S. Hunter, N. Stenz, and D. Baum. Statistical evidence for common ancestry: New tests of universal ancestry. (_Submitted_)
 
-`2011`
-Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
+Baum, Davide, C. Ane, B. Larget, C. Solis-Lemus, L.S.T. Ho, P. Boone, C. Drummond, __M. Bontrager__, S. Hunter, and D. Baum. S atistical evidence for common ancestry: Application to Primates. (_Submitted_)
+
+`2014`
+
+Almeida, Pedro, C. Goncalves, S. Teixeira, D. Libkind, __M. Bontrager__, I. Masneuf-Pomarede, W. Albertin, P. Durrens, D. Sherman, P. Marullo, C.T. Hittinger, P. Goncalves, J.P. Sampaio. A Gondwanan Imprint on the Global Diversity and Domestication of the Wine and Cider Yeast Saccharomyces uvarum. _Nature Communications_ Vol 5. June 2014
 
 ### Media
 
@@ -120,29 +127,33 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 
 ## Activities
 
-### JF Crow Institute for the Study of Evolution
+### Evolution Coordinating Committee
 
-I am a member of the Evolution Coordinating Committee for the Crow Institute at UW-Madision. I am involved in the development of a graduate program in Evolution, as well as in many outreach and teaching activities.
+`2013-15`
+I am a member of the Evolution Coordinating Committee for the JF Crow Institute for the study of Evolution at UW-Madision. I am involved in the development of a graduate program in Evolution, as well as in many outreach and teaching activities.
 
 ### Evolution Seminar Series
 
+`2013-15`
 I organize and run the UW-Madison Evolution Seminar Series by inviting all associated speakers and writing grants for funding visiting speakers.
 
 ### MoMiEE
 
+`2014-15`
 I co-founded a group meeting of microbial ecologists and computational biologists on campus which meets monthly to talk about methods in microbial ecology and evolution.
 
 ### Evolution Journal Club
 
+`2014-15`
 I founded and help run a weekly evolution journal club for graduate students and post-docs.
 
 ## Awards
 
-HHMI Teaching Fellowship (2014 - Present)
-
 NSF Graduate Research Fellowhip Program (3 years PhD fees + enhanced stipend)
 
 Genetics Department NIH training grant (2 years PhD fees + stipend)
+
+HHMI Teaching Fellowship (Teacher training and course design)
 
 UW-Madison Zoology research grant ($2500 research funding)
 
